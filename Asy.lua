@@ -60,11 +60,11 @@ end
 local font = vc()
 
 local themes = {
-    accent = Color3.fromRGB(255, 50, 100),
-    background = Color3.fromRGB(25, 20, 30),
-    secondary = Color3.fromRGB(40, 30, 50),
-    text = Color3.fromRGB(255, 220, 240),
-    text_secondary = Color3.fromRGB(200, 150, 200)
+    accent = Color3.fromRGB(170, 85, 235),
+    background = Color3.fromRGB(12, 12, 12),
+    secondary = Color3.fromRGB(19, 19, 19),
+    text = Color3.fromRGB(205, 205, 205),
+    text_secondary = Color3.fromRGB(140, 140, 140)
 }
 Asy.flags = {}
 Asy.colorPickers = {}
